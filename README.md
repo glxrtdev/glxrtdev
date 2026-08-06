@@ -1,6 +1,6 @@
-## 👨🏻‍💻 Enzo Goulart
+### 👨🏻‍💻 Enzo Goulart
 
-**`Software Engineer • Full Stack Developer • BI Developer`**
+**Software Engineer • Full Stack Developer • BI Developer**
 
 I'm Enzo Goulart, a Software Engineering student currently working in Business Intelligence. My work involves building interactive dashboards, modeling data, creating KPIs with Power BI, SQL, and DAX, as well as developing web applications and APIs.
 
@@ -30,7 +30,7 @@ I'm Enzo Goulart, a Software Engineering student currently working in Business I
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Languages & Tools
 
 <!-- Java -->
 <img align="left" alt="Java" title="Java" width="30px"
