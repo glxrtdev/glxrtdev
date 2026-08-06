@@ -1,4 +1,4 @@
-### 👨🏻‍💻 Enzo Goulart
+### Hi there, I'm Enzo Goulart! 
 
 **Software Engineer • Full Stack Developer • BI Developer**
 
@@ -79,7 +79,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Power BI" title="Power BI" width="30px"
 src="https://img.icons8.com/color/48/power-bi.png"/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
