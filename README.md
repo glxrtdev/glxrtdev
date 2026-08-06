@@ -5,6 +5,13 @@
 I'm Enzo Goulart, a Software Engineering student currently working in Business Intelligence. My work involves building interactive dashboards, modeling data, creating KPIs with Power BI, SQL, and DAX, as well as developing web applications and APIs.
 
 <p align="left">
+    <a href="https://enzobgdev.vercel.app/">
+    <img
+        alt="Portfolio"
+        title="Visit my Portfolio"
+        src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"
+    />
+</a>
     <a href="https://www.linkedin.com/in/enzogoulart/">
         <img
             alt="LinkedIn"
