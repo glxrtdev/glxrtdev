@@ -81,20 +81,8 @@ src="https://img.icons8.com/color/48/power-bi.png"/>
 
 ### 📊 Statistics
 
-<p>
- <img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=glxrtdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-
-<img 
-  align="left" 
-  alt="Top Languages" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=glxrtdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
-
+<p align="center">
+  <img height="180" src="https://github-readme-stats-two-mu-25.vercel.app/api?username=glxrtdev&show_icons=true&theme=dark&include_all_commits=true&cache_seconds=3600" />
+  <img height="180" src="https://github-readme-stats-two-mu-25.vercel.app/api/top-langs/?username=glxrtdev&layout=compact&langs_count=7&theme=dark&cache_seconds=3600" />
 </p>
+
