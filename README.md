@@ -39,24 +39,24 @@ I'm Enzo Goulart, a Software Engineering student currently working in Business I
 
 ### 🛠️ Languages & Tools
 
-<div>
-  <img align="left" alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="left" alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img align="left" alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="left" alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="left" alt="Power BI" title="Power BI" width="30px" src="https://img.icons8.com/color/48/power-bi.png"/>
+<div style="display: inline-block">
+  <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="Power BI" title="Power BI" width="30px" src="https://img.icons8.com/color/48/power-bi.png">
 </div>
 
-<div style="clear: both;"></div>
+---
 
 ### 📊 Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-two-mu-25.vercel.app/api?username=glxrtdev&show_icons=true&theme=dark&include_all_commits=true&cache_seconds=3600"/>
-  <img height="180" src="https://github-readme-stats-two-mu-25.vercel.app/api/top-langs/?username=glxrtdev&layout=compact&langs_count=7&theme=dark&cache_seconds=3600"/>
+  <img height="180" src="https://github-readme-stats-two-mu-25.vercel.app/api?username=glxrtdev&show_icons=true&theme=dark&include_all_commits=true&cache_seconds=3600">
+  <img height="180" src="https://github-readme-stats-two-mu-25.vercel.app/api/top-langs/?username=glxrtdev&layout=compact&langs_count=7&theme=dark&cache_seconds=3600">
 </p>
