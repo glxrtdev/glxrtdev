@@ -1,62 +1,117 @@
-### Hi there, I'm Enzo Goulart! 
+<h1 align="center">Hi there, I'm Enzo Goulart! 👋</h1>
 
-**Software Engineer • Full Stack Developer • BI Developer**
+<h3 align="center">Software Engineer • Full Stack Developer • BI Developer</h3>
 
-I'm Enzo Goulart, a Software Engineering student currently working in Business Intelligence. My work involves building interactive dashboards, modeling data, creating KPIs with Power BI, SQL, and DAX, as well as developing web applications and APIs.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Turning+data+into+useful+insights;Developing+with+Java%2C+Python+and+JavaScript;Always+learning+and+building+something+new" alt="Typing SVG" />
+</p>
 
-<p align="left">
-    <a href="https://enzobgdev.vercel.app/">
-    <img
-        alt="Portfolio"
-        title="Visit my Portfolio"
-        src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"
-    />
-</a>
-    <a href="https://www.linkedin.com/in/enzogoulart/">
-        <img
-            alt="LinkedIn"
-            title="Connect with me on LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://www.instagram.com/enzoo.bg">
-        <img
-            alt="Instagram"
-            title="Follow me on Instagram"
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-    <a href="mailto:enzobgoulart@gmail.com">
-        <img
-            alt="Email"
-            title="Send me an email"
-            src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <a href="https://enzobgdev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/enzogoulart/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:enzobgoulart@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 👨‍💻 About Me
 
-<div style="display: inline-block">
-  <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="Power BI" title="Power BI" width="30px" src="https://img.icons8.com/color/48/power-bi.png">
-</div>
+I'm a **Software Engineering student** currently working with **Business Intelligence**, combining software development, data analysis and modern web technologies.
+
+* 🎓 Studying **Software Engineering**
+* 💻 Developing web applications and APIs
+* 📊 Building dashboards and data solutions with **Power BI, SQL and DAX**
+* 🧠 Interested in software architecture, data and automation
+* 🚀 Always learning new technologies and turning ideas into real projects
 
 ---
 
-### 📊 Statistics
+### 🧰 Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+**Data & BI**
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-4472C4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+Some of the projects I've been working on across **software development, data and automation**.
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-two-mu-25.vercel.app/api?username=glxrtdev&show_icons=true&theme=dark&include_all_commits=true&cache_seconds=3600">
-  <img height="180" src="https://github-readme-stats-two-mu-25.vercel.app/api/top-langs/?username=glxrtdev&layout=compact&langs_count=7&theme=dark&cache_seconds=3600">
+  <a href="https://enzobgdev.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-4285F4?style=for-the-badge" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-two-mu-25.vercel.app/api?username=glxrtdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-two-mu-25.vercel.app/api/top-langs/?username=glxrtdev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=glxrtdev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://enzobgdev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/enzogoulart/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:enzobgoulart@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Always building, learning and improving. 🚀</i>
 </p>
