@@ -79,8 +79,8 @@ Some of the projects I've been working on across **software development, data an
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-two-mu-25.vercel.app/api?username=glxrtdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats-two-mu-25.vercel.app/api/top-langs/?username=glxrtdev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=glxrtdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glxrtdev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
