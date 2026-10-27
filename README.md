@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://enzobgdev.vercel.app/">
+  <a href="https://enzogoulart.dev/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/enzogoulart/">
@@ -69,7 +69,7 @@ I'm a **Software Engineering student** currently working with **Business Intelli
 Some of the projects I've been working on across **software development, data and automation**.
 
 <p align="center">
-  <a href="https://enzobgdev.vercel.app/">
+  <a href="https://enzogoulart.dev/">
     <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-4285F4?style=for-the-badge" alt="Portfolio"/>
   </a>
 </p>
@@ -92,7 +92,7 @@ Some of the projects I've been working on across **software development, data an
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://enzobgdev.vercel.app/">
+  <a href="https://enzogoulart.dev/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/enzogoulart/">
